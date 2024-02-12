@@ -31,7 +31,7 @@ make install
 
 ```
 cd 3DViewer/src
-make open.
+make open
 ```
 
 ### Удаление программы
@@ -40,5 +40,5 @@ make open.
 
 ```
 cd 3DViewer/src
-make uninstall.
+make uninstall
 ```
